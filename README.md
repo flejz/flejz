@@ -7,7 +7,7 @@ root@darknet:~ $ whoami
 Engineer somewhere between the meat and the matrix. Building things with Rust, WebAssembly, and whatever else compiles at 3am.
 
 ```
-rust        ████████████████████  daily driver
+rust 🦀     ████████████████████  daily driver
 c++         ████████████████░░░░  systems & embedded
 go          ████████████░░░░░░░░  services
 typescript  ████████░░░░░░░░░░░░  when necessary
@@ -34,8 +34,4 @@ other       ████░░░░░░░░░░░░░░░░  python
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=flejz&show_icons=true&theme=dark&bg_color=0b0f14&title_color=00ffc6&icon_color=00ffc6&text_color=c8d6e5&border_color=1a2a2a&hide_border=false&count_private=true)](https://github.com/flejz)
-
----
-
-`netrunner@cybermancer.dev` &nbsp;·&nbsp; [cybermancer.dev](https://cybermancer.dev)
+`flejz@protonmail.com` &nbsp;·&nbsp; [cybermancer.dev](https://cybermancer.dev)
