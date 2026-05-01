@@ -7,7 +7,7 @@ root@darknet:~ $ whoami
 Engineer somewhere between the meat and the matrix. Building things with Rust, WebAssembly, and whatever else compiles at 3am.
 
 ```
-rust 🦀     ████████████████████  daily driver
+rust        ████████████████████  daily driver 🦀
 c++         ████████████████░░░░  systems & embedded
 go          ████████████░░░░░░░░  services
 typescript  ████████░░░░░░░░░░░░  when necessary
