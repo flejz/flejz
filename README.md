@@ -7,10 +7,11 @@ root@darknet:~ $ whoami
 Engineer somewhere between the meat and the matrix. Building things with Rust, WebAssembly, and whatever else compiles at 3am.
 
 ```
-rust        ████████████████████  primary
-python      ████████████░░░░░░░░  daily
+rust        ████████████████████  daily driver
+c++         ████████████████░░░░  systems & embedded
+go          ████████████░░░░░░░░  services
 typescript  ████████░░░░░░░░░░░░  when necessary
-go          █████░░░░░░░░░░░░░░░  occasional
+other       ████░░░░░░░░░░░░░░░░  python & else
 ```
 
 ---
@@ -29,7 +30,7 @@ go          █████░░░░░░░░░░░░░░░  occasi
 
 ### stack
 
-`Rust` `WebAssembly` `Axum` `Python` `PostgreSQL` `Linux` `Docker` `Kubernetes`
+`Rust` `C++` `Go` `WebAssembly` `Axum` `PostgreSQL` `Linux` `Docker` `Kubernetes`
 
 ---
 
