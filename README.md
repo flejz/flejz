@@ -30,7 +30,7 @@ other       ████░░░░░░░░░░░░░░░░  python
 
 ### stack
 
-`Rust` `C++` `Go` `WebAssembly` `Axum` `PostgreSQL` `Linux` `Docker` `Kubernetes`
+`Rust` `C++` `Go` `WebAssembly` `PostgreSQL` `Linux` `Docker` `Kubernetes`
 
 ---
 
